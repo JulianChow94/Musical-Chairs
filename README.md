@@ -1,4 +1,4 @@
-#Musical Chairs Software Verification <hr>
+#Musical Chairs Software Verification
 
 ###Disclaimer <hr>
 The problem used in this suite of exercises belong to Lindsey Shorser of the University of Toronto. Her personal website can be found here: https://www.math.toronto.edu/cms/shorser-lindsey/
